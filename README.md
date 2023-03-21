@@ -58,4 +58,4 @@ In a separate terminal execute:
 `$ npm run start`
 
 
-![Animated GIF](https://drive.google.com/file/d/1pMiC4dbbfXEi6ToY1ooErSBZuQt8BZ_9/view?usp=share_link)
+![Animated GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmE3ZWQ0ODQwZGViY2E1MGJiNjhhMDYxOTBiYmYwY2ZmYTNjOTJkZCZjdD1n/Y83o2JkdkXM9rYMJ3P/giphy.gif)
