@@ -1,4 +1,19 @@
-# AI NFT Generator
+# Simple AI NFT Generator
+The Simple AI NFT Generator utilizes A.I. to generate unique artwork and create non-fungible tokens (NFTs) on the blockchain.
+
+## Features
+* Connects with MetaMask wallet
+* Generates artwork using AI image generator - Hugging Face's stable diffusion model
+* Uploads artwork to IPFS
+* Mints NFTs using Open Zeppelin framework to interact with ERC721
+
+
+## How it Works
+* Users can connect their MetaMask wallet to the app, which allows them to mint NFTs using Ether.
+* The app includes a form for user input, which captures information about the desired AI-generated artwork.
+* The user input is sent to the Hugging Face API, which uses its stable diffusion model to generate a unique image.
+* The generated image is uploaded to IPFS and the Open Zeppelin framework is used to mint a new NFT on the blockchain.
+* The user can then view their NFT and interact with it on the Ethereum blockchain.
 
 ## Technology Stack & Tools
 
@@ -41,3 +56,6 @@ In a separate terminal execute:
 
 ### 7. Start frontend
 `$ npm run start`
+
+
+![Animated GIF](https://drive.google.com/file/d/1pMiC4dbbfXEi6ToY1ooErSBZuQt8BZ_9/view?usp=share_link)
